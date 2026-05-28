@@ -46,10 +46,6 @@ Sebuah aplikasi web sederhana dan cepat untuk membuat QR Code, dibangun mengguna
 5. **Buka di Browser**:
    Buka web browser Anda dan akses `http://127.0.0.1:5000`
 
-## 📸 Tampilan
-
-*(Anda bisa menambahkan screenshot aplikasi di sini nanti)*
-
 ## 📄 Lisensi
 
 Project ini bersifat open-source dan bebas digunakan.
